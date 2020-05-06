@@ -1,3 +1,9 @@
+## Getting started with Amazon S3 storage in Laravel
+
+This is the companion code for this [video tutorial](https://www.youtube.com/watch?v=BQ0gi9YHuek) with the same title on my YouTube. It's a basic app with an endpoint to upload an image to an Amazon S3 bucket. 
+
+Be sure to add in your AWS credentials to the `.env` file during setup. See the below for details from the default Laravel app README.
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
